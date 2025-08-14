@@ -1,4 +1,4 @@
-xv6 OS Modifications – Homework Projects
+# xv6 OS Modifications – Homework Projects
 
 This repository contains three separate homework assignments completed as part of an Operating Systems course.
 All projects are based on the xv6 teaching operating system and implemented in C, with modifications to both the kernel and user space.
